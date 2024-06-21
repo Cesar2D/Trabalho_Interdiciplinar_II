@@ -1,0 +1,5 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "java.format.settings.url": "eclipse-formatter.xml",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
